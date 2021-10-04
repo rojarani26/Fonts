@@ -1,0 +1,35 @@
+h1{
+    background-size:auto;
+}
+h2{
+    border: 4px solid black;
+    background-color:plum;
+}
+h3{
+    letter-spacing: 1px;
+    background-attachment: fixed;
+}
+#image{
+    background: url(download.png);
+    background-repeat: no-repeat;
+    height:100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+h4{
+  background-color: peachpuff;
+  background-repeat: no-repeat;
+  background-origin: content-box;
+}
+h5{
+    text-transform: uppercase;
+}
+h6{
+    border: 10px solid black;
+    padding: 25px;
+    background: url(1.jpg);
+    background-origin:content-box;
+
+}
+
